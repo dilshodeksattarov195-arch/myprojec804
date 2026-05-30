@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachespdate",
+        "uuid": 1965780,
+        "checksum": "ng8ye5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
